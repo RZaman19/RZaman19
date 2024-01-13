@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rahbar
-- 👀 I’m interested in engineering, data analysis and ML amongst other things
-- 🌱 I’m currently learning Python with various add-ins such as pandas, streamlit and ktinker
-- 💞️ I’m looking to collaborate on small Python projects to build up my skills
+- Currently a Safety Systems Graduate Engineer
+- I have previous experience using FORTRAN, CUDA and Linux as part of a dissertation project to research the acceleration of FEA analysis using GPUs.
+- My current project is around learning Kotlin witht the aim of learning app development, as a hobby in my spare time. 
 - 📫 How to reach me => Find me on LinkedIn https://www.linkedin.com/in/rahbar-zaman/ 
 
 <!---
